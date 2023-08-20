@@ -1,0 +1,8 @@
+# Private data
+note.txt
+/airflow/logs/*
+/common/postgres_db_volume/*
+/druid/*
+/images/*
+/superset/db_volume/*
+/superset/superset_home/*
