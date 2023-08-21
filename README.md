@@ -14,7 +14,7 @@ This project gives an introduction to setting up streaming analytics using open 
 
 <div>
     <kbd>
-        <img title="View System" src="https://github.com/longhk-neusplend/real-time-analytics/blob/main/public/chart.png?raw=true" />
+        <img title="View System" src="https://github.com/longhk-neusplend/real-time-analytics/blob/master/public/chart.png?raw=true" />
     </kbd>
     <br/>
 </div>
